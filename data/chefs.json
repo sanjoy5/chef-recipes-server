@@ -4,8 +4,9 @@
         "chef_picture": "https://i.ibb.co/ZJW53fF/chefimg.png",
         "chef_name": "Sanjeev Kapoor",
         "years_of_experience": 5,
-        "number_of_recipes": 500,
+        "numbers_of_recipes": 3,
         "likes": 1000,
+        "bio": "A master of traditional Indian cuisine, known for his flavorful spices and attention to detail.",
         "recipes": [
             {
                 "recipe_name": "Butter Chicken",
@@ -60,8 +61,9 @@
         "chef_picture": "https://i.ibb.co/LCbZPxY/chef5.png",
         "chef_name": "Rajesh Kumar",
         "years_of_experience": 10,
-        "num_of_recipes": 25,
+        "numbers_of_recipes": 3,
         "likes": 5000,
+        "bio": "This chef brings a modern twist to classic dishes, infusing bold and unexpected flavors.",
         "recipes": [
             {
                 "recipe_name": "Chicken Tikka Masala",
@@ -109,8 +111,9 @@
         "chef_picture": "https://i.ibb.co/1zr4By5/chef3.png",
         "chef_name": "Asha Gupta",
         "years_of_experience": 15,
-        "number_of_recipes": 50,
+        "numbers_of_recipes": 3,
         "likes": 8000,
+        "bio": "An expert in vegetarian cooking, using fresh, local ingredients to create healthy and delicious meals",
         "recipes": [
             {
                 "recipe_name": "Butter Chicken",
@@ -182,8 +185,9 @@
         "chef_picture": "https://i.ibb.co/XCb7cPL/chef2.png",
         "chef_name": "Karina Kapoor",
         "years_of_experience": 8,
-        "num_recipes": 30,
+        "numbers_of_recipes": 3,
         "likes": 1345,
+        "bio": "A culinary innovator, constantly experimenting with new techniques and ingredients to push boundaries.",
         "recipes": [
             {
                 "recipe_name": "Masala Dosa",
@@ -231,8 +235,9 @@
         "chef_picture": "https://i.ibb.co/pbv8FgR/chef4.png",
         "chef_name": "Rajeev Mukharjee",
         "years_of_experience": 15,
-        "numbers_of_recipes": 72,
+        "numbers_of_recipes": 3,
         "likes": 12500,
+        "bio": "This chef's passion for food is matched only by their commitment to sustainability and ethical sourcing.",
         "recipes": [
             {
                 "recipe_name": "Tandoori Chicken",
@@ -280,8 +285,9 @@
         "chef_picture": "https://i.ibb.co/wMvgfVz/ch7.png",
         "chef_name": "Salman Khan",
         "years_of_experience": 15,
-        "numbers_of_recipes": 75,
+        "numbers_of_recipes": 3,
         "likes": 1200,
+        "bio": "A seasoned chef with years of experience in fine dining, creating beautifully plated dishes with a focus on texture and balance.",
         "recipes": [
             {
                 "recipe_name": "Butter Chicken",
