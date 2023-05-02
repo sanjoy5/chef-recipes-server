@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "chef_picture": "https://i.ibb.co/ZJW53fF/chefimg.png",
+        "chef_picture": "https://i.ibb.co/SxqbkdS/pngimg-com-chef-PNG115.png",
         "chef_name": "Sanjeev Kapoor",
         "years_of_experience": 5,
         "numbers_of_recipes": 3,
@@ -9,6 +9,8 @@
         "bio": "A master of traditional Indian cuisine, known for his flavorful spices and attention to detail.",
         "recipes": [
             {
+                "resipe_id": 1,
+                "recipe_image": "https://i.ibb.co/pb9TcQX/Butter-chicken.jpg",
                 "recipe_name": "Butter Chicken",
                 "ingredients": [
                     "Chicken",
@@ -20,10 +22,11 @@
                     "Cream"
                 ],
                 "cooking_method": "1. Marinate chicken with yogurt and spices. \n2. Grill or bake chicken until cooked. \n3. In a separate pan, cook onions, ginger, and garlic until soft. \n4. Add tomatoes and cook until they break down. \n5. Add cooked chicken, butter, and cream. \n6. Serve hot with rice or naan.",
-                "rating": 4.5,
-                "favorite": false
+                "rating": 4.5
             },
             {
+                "resipe_id": 2,
+                "recipe_image": "https://i.ibb.co/Q8jcbc7/Dal-Makhani-New-3-500x500.jpg",
                 "recipe_name": "Dal Makhani",
                 "ingredients": [
                     "Black Lentils",
@@ -36,10 +39,11 @@
                     "Cream"
                 ],
                 "cooking_method": "1. Soak lentils and beans overnight. \n2. Cook lentils and beans in a pressure cooker. \n3. In a separate pan, cook onions, ginger, and garlic until soft. \n4. Add tomatoes and cook until they break down. \n5. Add cooked lentils and beans, butter, and cream. \n6. Cook for 15 minutes on low heat. \n7. Serve hot with rice or naan.",
-                "rating": 4.2,
-                "favorite": true
+                "rating": 4.2
             },
             {
+                "resipe_id": 3,
+                "recipe_image": "https://i.ibb.co/phWw2pX/palak-paneer-recipe-featured.webp",
                 "recipe_name": "Palak Paneer",
                 "ingredients": [
                     "Spinach",
@@ -51,8 +55,7 @@
                     "Cream"
                 ],
                 "cooking_method": "1. Blanch spinach and blend into a paste. \n2. In a separate pan, cook onions, ginger, and garlic until soft. \n3. Add tomatoes and cook until they break down. \n4. Add spinach paste and cook for 10 minutes. \n5. Add paneer and cream. \n6. Serve hot with rice or naan.",
-                "rating": 4.8,
-                "favorite": true
+                "rating": 4.8
             }
         ]
     },
@@ -66,6 +69,8 @@
         "bio": "This chef brings a modern twist to classic dishes, infusing bold and unexpected flavors.",
         "recipes": [
             {
+                "resipe_id": 4,
+                "recipe_image": "https://i.ibb.co/K5FkDjB/Chicken-Tikka-Masala-min.webp",
                 "recipe_name": "Chicken Tikka Masala",
                 "ingredients": [
                     "boneless chicken",
@@ -75,10 +80,11 @@
                     "cream"
                 ],
                 "cooking_method": "Marinate chicken in spices and yogurt, bake until cooked through, then add to a tomato and cream-based sauce.",
-                "rating": 4.8,
-                "favorite": false
+                "rating": 4.8
             },
             {
+                "resipe_id": 5,
+                "recipe_image": "https://i.ibb.co/6Rs34V6/palak-paneer-spinach-curry-recipe.jpg",
                 "recipe_name": "Palak Paneer",
                 "ingredients": [
                     "spinach",
@@ -88,10 +94,11 @@
                     "spices"
                 ],
                 "cooking_method": "Blanch spinach, blend to a paste. Sauté onions, add tomatoes and spices, then add spinach paste and paneer. Simmer until flavors meld.",
-                "rating": 4.5,
-                "favorite": true
+                "rating": 4.5
             },
             {
+                "resipe_id": 6,
+                "recipe_image": "https://i.ibb.co/T0Ls9n1/aloo-gobi.jpg",
                 "recipe_name": "Aloo Gobi",
                 "ingredients": [
                     "potatoes",
@@ -101,8 +108,7 @@
                     "spices"
                 ],
                 "cooking_method": "Sauté onions, add spices, potatoes and cauliflower, then cook until tender. Add tomatoes and continue to cook until flavors meld.",
-                "rating": 4.2,
-                "favorite": false
+                "rating": 4.2
             }
         ]
     },
@@ -116,6 +122,8 @@
         "bio": "An expert in vegetarian cooking, using fresh, local ingredients to create healthy and delicious meals",
         "recipes": [
             {
+                "resipe_id": 7,
+                "recipe_image": "https://i.ibb.co/W6L7P7x/Indian-Butter-Chicken-Recipe-featured.jpg",
                 "recipe_name": "Butter Chicken",
                 "ingredients": [
                     "1 lb boneless chicken, cut into small pieces",
@@ -131,10 +139,11 @@
                     "Salt to taste"
                 ],
                 "cooking_method": "Marinate chicken in yogurt and spices for 30 minutes. In a pan, melt butter and cook chicken until browned. Add tomato puree and cook until sauce thickens. Stir in cream and salt, and simmer for 5-10 minutes. Serve hot with rice or naan.",
-                "rating": 4.5,
-                "favorite": true
+                "rating": 4.5
             },
             {
+                "resipe_id": 8,
+                "recipe_image": "https://i.ibb.co/3F8hFPn/IMG-2129-2.jpg",
                 "recipe_name": "Vegetable Biryani",
                 "ingredients": [
                     "1 cup basmati rice",
@@ -156,10 +165,11 @@
                     "Salt to taste"
                 ],
                 "cooking_method": "Soak rice for 30 minutes. In a pot, heat ghee and fry cumin, bay leaves, cinnamon, cloves, and cardamom until fragrant. Add onion, ginger, and garlic and sauté until onion is translucent. Add vegetables and spices and cook for 5-10 minutes. Drain rice and add to pot with 2 cups water. Bring to a boil, then reduce heat and simmer for 10-15 minutes, until rice is cooked and water is absorbed. Serve hot with raita and papadum.",
-                "rating": 4.2,
-                "favorite": false
+                "rating": 4.2
             },
             {
+                "resipe_id": 9,
+                "recipe_image": "https://i.ibb.co/XFzxLTr/chana-masala-recipe-featured.jpg",
                 "recipe_name": "Chana Masala",
                 "ingredients": [
                     "1 can chickpeas, drained and rinsed",
@@ -175,21 +185,22 @@
                     "Salt to taste"
                 ],
                 "cooking_method": "In a pan, sauté onion and ginger-garlic paste in oil until onion is translucent. Add spices and cook for 1-2 minutes. Add chickpeas, tomato puree, water, and salt, and simmer for 10-15 minutes, until sauce thickens. Serve hot with rice or naan.",
-                "rating": 4.8,
-                "favorite": true
+                "rating": 4.8
             }
         ]
     },
     {
         "id": 4,
-        "chef_picture": "https://i.ibb.co/XCb7cPL/chef2.png",
-        "chef_name": "Karina Kapoor",
+        "chef_picture": "https://i.ibb.co/KFMZV0d/chef-orchard-house-kilkenny-19.png",
+        "chef_name": "Amrita Raichand",
         "years_of_experience": 8,
         "numbers_of_recipes": 3,
         "likes": 1345,
         "bio": "A culinary innovator, constantly experimenting with new techniques and ingredients to push boundaries.",
         "recipes": [
             {
+                "resipe_id": 10,
+                "recipe_image": "https://i.ibb.co/XynSScZ/Mysoor-Dosa.jpg",
                 "recipe_name": "Masala Dosa",
                 "ingredients": [
                     "rice",
@@ -199,10 +210,11 @@
                     "curry leaves"
                 ],
                 "cooking_method": "Soak rice and urad dal separately, grind them together and ferment overnight. Cook potatoes with onions and curry leaves. Spread dosa batter on a hot griddle and place potato filling on top. Roll and serve hot.",
-                "rating": 4.5,
-                "favorite": false
+                "rating": 4.5
             },
             {
+                "resipe_id": 11,
+                "recipe_image": "https://i.ibb.co/QfG3YSs/paneer-tikka-masala-recipe.jpg",
                 "recipe_name": "Paneer Tikka Masala",
                 "ingredients": [
                     "paneer",
@@ -212,11 +224,12 @@
                     "spices"
                 ],
                 "cooking_method": "Marinate paneer cubes with yogurt and spices, grill them in the oven or on a tawa. Make a gravy with onion, tomato and more spices. Add the paneer cubes to the gravy and simmer for a few minutes. Serve hot with rice or naan.",
-                "rating": 4.3,
-                "favorite": true
+                "rating": 4.3
             },
             {
-                "recipe_name": "Aloo Gobi",
+                "resipe_id": 12,
+                "recipe_image": "https://i.ibb.co/0ty8Qf2/Gobi-Paratha-2-3.jpg",
+                "recipe_name": "Aloo Gobi Parata",
                 "ingredients": [
                     "potatoes",
                     "cauliflower",
@@ -225,14 +238,13 @@
                     "spices"
                 ],
                 "cooking_method": "Cook potatoes and cauliflower florets separately. In a pan, heat oil, add onion and spices, then add tomato and cook until soft. Add the cooked vegetables and mix well. Cook for a few more minutes and serve hot with roti or paratha.",
-                "rating": 4.1,
-                "favorite": false
+                "rating": 4.1
             }
         ]
     },
     {
         "id": 5,
-        "chef_picture": "https://i.ibb.co/pbv8FgR/chef4.png",
+        "chef_picture": "https://i.ibb.co/PDzf27K/pngimg-com-chef-PNG102.png",
         "chef_name": "Rajeev Mukharjee",
         "years_of_experience": 15,
         "numbers_of_recipes": 3,
@@ -240,6 +252,8 @@
         "bio": "This chef's passion for food is matched only by their commitment to sustainability and ethical sourcing.",
         "recipes": [
             {
+                "resipe_id": 13,
+                "recipe_image": "https://i.ibb.co/rvG00Xc/Tandoori-Chicken-Recipe.jpg",
                 "recipe_name": "Tandoori Chicken",
                 "ingredients": [
                     "chicken",
@@ -249,11 +263,12 @@
                     "spices"
                 ],
                 "cooking_method": "1. Marinate chicken in yogurt and spices. \n2. Cook in tandoor or oven. \n3. Serve hot.",
-                "rating": 4.8,
-                "favorite": true
+                "rating": 4.8
             },
             {
-                "recipe_name": "Palak Paneer",
+                "resipe_id": 14,
+                "recipe_image": "https://i.ibb.co/R4v0056/Palak-Chicken-Saag-Recipe.jpg",
+                "recipe_name": "Palak Paneer Chicken",
                 "ingredients": [
                     "spinach",
                     "paneer",
@@ -262,10 +277,11 @@
                     "spices"
                 ],
                 "cooking_method": "1. Blanch spinach and blend into a puree. \n2. Cook paneer in a tomato-onion gravy. \n3. Add the spinach puree and serve hot.",
-                "rating": 4.5,
-                "favorite": false
+                "rating": 4.5
             },
             {
+                "resipe_id": 15,
+                "recipe_image": "https://i.ibb.co/MsWjHGB/restaurant-style-butter-chicken-recipe-debjanir-rannaghar.jpg",
                 "recipe_name": "Butter Chicken",
                 "ingredients": [
                     "chicken",
@@ -275,21 +291,22 @@
                     "spices"
                 ],
                 "cooking_method": "1. Cook chicken in a tomato-based gravy. \n2. Add cream and butter for richness. \n3. Serve hot with naan.",
-                "rating": 4.6,
-                "favorite": true
+                "rating": 4.6
             }
         ]
     },
     {
         "id": 6,
         "chef_picture": "https://i.ibb.co/wMvgfVz/ch7.png",
-        "chef_name": "Salman Khan",
+        "chef_name": "Anand Bihari",
         "years_of_experience": 15,
         "numbers_of_recipes": 3,
         "likes": 1200,
         "bio": "A seasoned chef with years of experience in fine dining, creating beautifully plated dishes with a focus on texture and balance.",
         "recipes": [
             {
+                "resipe_id": 16,
+                "recipe_image": "https://i.ibb.co/Wn9pHQ4/honey-garlic-chicken-image-square-4.jpg",
                 "recipe_name": "Butter Chicken",
                 "ingredients": [
                     "Chicken",
@@ -299,10 +316,11 @@
                     "Onions"
                 ],
                 "cooking_method": "1. Marinate chicken with spices and yogurt. 2. Cook chicken in butter. 3. Prepare tomato-onion gravy. 4. Add cooked chicken and cream to the gravy. 5. Garnish with coriander leaves.",
-                "rating": 4.8,
-                "favorite": false
+                "rating": 4.8
             },
             {
+                "resipe_id": 17,
+                "recipe_image": "https://i.ibb.co/rcj79YR/delish-191119-butter-chicken-0375-landscape-pf-1574729676.jpg",
                 "recipe_name": "Palak Paneer",
                 "ingredients": [
                     "Paneer",
@@ -313,10 +331,11 @@
                     "Garlic"
                 ],
                 "cooking_method": "1. Blanch spinach and puree it. 2. Fry paneer cubes. 3. Saute onions, ginger, and garlic. 4. Add tomato puree and spinach puree. 5. Add paneer and cook for a few minutes. 6. Garnish with cream and serve.",
-                "rating": 4.5,
-                "favorite": true
+                "rating": 4.5
             },
             {
+                "resipe_id": 18,
+                "recipe_image": "https://i.ibb.co/SVdwF5t/Gulab-Jamun-Indian-Sweet-500x500.webp",
                 "recipe_name": "Gulab Jamun",
                 "ingredients": [
                     "Milk powder",
@@ -326,8 +345,7 @@
                     "Cardamom powder"
                 ],
                 "cooking_method": "1. Mix milk powder, flour, and ghee to form a dough. 2. Make small balls and fry them in oil. 3. Prepare sugar syrup. 4. Soak fried balls in the sugar syrup for a few hours. 5. Serve hot or cold.",
-                "rating": 4.3,
-                "favorite": false
+                "rating": 4.3
             }
         ]
     }
